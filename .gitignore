@@ -1,0 +1,12 @@
+# Ignore data files
+/data/raw/
+/data/processed/
+
+# Ignore log files
+/results/logs/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
